@@ -8,10 +8,10 @@ main.days[4] = {
 		return getPasswordsPart1().filter(pass => {
 			for(let x = -1; x < 4; x++) {
 				if(pass.charAt(x) !== pass.charAt(x + 1) &&
-					 pass.charAt(x + 1) === pass.charAt(x + 2) &&
-					 pass.charAt(x + 2) !== pass.charAt(x + 3)) {
-						 return true;
-					 }
+				   pass.charAt(x + 1) === pass.charAt(x + 2) &&
+				   pass.charAt(x + 2) !== pass.charAt(x + 3)) {
+				     return true;
+				}
 			}
 			return false;
 		}).length.toString();
