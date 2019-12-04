@@ -5,16 +5,12 @@ Here are my crappy Advent of Code 2019 solutions in TypeScript.
 
 ## Status
 
-| Puzzle | Status |
-| ------ | ------ |
-| Day 1 Part 1 | complete |
-| Day 1 Part 2 | complete |
-| Day 2 Part 1 | complete |
-| Day 2 Part 2 | complete |
-| Day 3 Part 1 | incomplete |
-| Day 3 Part 2 | not started |
-| Day 4 Part 1 | complete |
-| Day 4 Part 2 | complete |
+| Puzzle | Part 1 Status | Part 2 Status |
+| -----: | ------------- | ------------- |
+| Day 1  | complete      | complete      |
+| Day 2  | complete      | complete      |
+| Day 3  | incomplete    | not started   |
+| Day 4  | complete      | complete      |
 
 ## Usage
 
