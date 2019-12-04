@@ -1,0 +1,14 @@
+{
+  "name": "aoc19_ts",
+  "version": "1.0.0",
+  "description": "real typescript hours......",
+  "private": true,
+  "author": "quaternary (https://quat1024.github.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^3.7.2"
+  },
+  "dependencies": {
+    "@types/node": "^12.12.14"
+  }
+}
